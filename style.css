@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+  background-color: lightblue;
+}
+
+#myImage{
+  display: block;
+  margin: auto;
+  background-color: white;
+  border: 0.625rem solid black;
+  border-radius: 1.25rem;
+
+}
+
+.wrapper{
+  width: 37.5rem;
+  margin: 1.875rem auto;
+}
+
+#thumbnailHolder{
+  background-color: white;
+  white-space:nowrap;
+  overflow-x: scroll;
+  border: 0.625rem solid black;
+  border-radius: 1.25rem;
+  width: 37.5rem;
+  margin: auto;
+
+}
+
+#alt_tekst{
+ font-family: 'Raleway', sans-serif;
+ font-size: 20px;
+ line-height: 90px;
+ text-align: center;
+ width: 600px;
+ margin: auto;
+ border: 0.625rem;
+ border-radius: 1.25rem;
+ color: black;
+
+
+}
